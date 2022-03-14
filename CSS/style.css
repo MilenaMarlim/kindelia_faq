@@ -125,6 +125,6 @@ main {
 
 @media(max-width:425px) {
     .faq {
-        height: 540px;
+        height: 100%;
     }
 }
