@@ -29,6 +29,7 @@ main {
     display: flex;
     align-items: center;
     border-radius: 30px;
+    position: relative;
 }
 
 .faq .ilustracao {
@@ -41,10 +42,11 @@ main {
 .faq .conteudo {
     width: 40%;
     padding-bottom: 20px;
+    margin-top: 50px;
 }
 
 .faq .conteudo h1 {
-    font-size: 100px;
+    font-size: 60px;
     font-weight: 700;
     margin-bottom: 30px;
 }
