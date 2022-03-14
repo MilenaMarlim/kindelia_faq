@@ -2,11 +2,11 @@
 
 💜 Olá !
 
-💬 Projeto FAQ criado pelo Dev em Dobro no evento Mapa Dev Week. 
+💬 FAQ construído para sanar as principais dúvidas quanto ao Projeto Kindelia. 
 
 🚀  Quer ver como ficou? Clique:
 
-https://milenamarlim.github.io/Projeto-FAQ/
+https://milenamarlim.github.io/kindelia_faq/
 
 
 ## 🚀 Linguagens utilizadas:
